@@ -1,4 +1,4 @@
-![logo](https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
+![logo](https://t4.ftcdn.net/jpg/04/63/02/53/360_F_463025395_cbELweZtUMu0xg9Mb2sx3hNujIkXI12w.jpg)
 <h1 align="center">Hi 👋, I'm Shruti Aher.</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"> 
